@@ -2,7 +2,7 @@
 
 ## Data Scientist / Machine Learning Engineer
 
-## I'm a life long student and a curious learner
+#### I'm a life long student and a curious learner
 
 - 🔭 Currently studying Astronomy and Astrophysics
 - 🌱 At the moment building a full stack application!
@@ -10,7 +10,7 @@
 - 🥅 2020 Goals: Develop usable applications with AI and contribute to Open Source projects
 - ⚡  Fun fact: I love to dance the Argentine Tango
 
-### Connect with me
+#### Connect with me
 
 [<img align="left" alt="gurupratap-matharu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="@gurupratap.matharu | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/medium.svg" />][medium]
